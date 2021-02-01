@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebhookSampleBot</name>
+    </assembly>
+    <members>
+        <member name="M:WebhookSampleBot.Controllers.SampleController.Get">
+            <summary>
+            Gets the data.
+            </summary>
+            <returns>The response data.</returns>
+        </member>
+        <member name="M:WebhookSampleBot.Controllers.SampleController.Post(System.Object,System.Int32)">
+            <summary>
+            Posts the data.
+            </summary>
+            <param name="data">The request data.</param>
+            <param name="delay">The delay.</param>
+            <returns>The response data.</returns>
+        </member>
+    </members>
+</doc>
