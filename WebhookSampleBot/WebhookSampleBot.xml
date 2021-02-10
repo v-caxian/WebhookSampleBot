@@ -15,7 +15,7 @@
             Posts the data.
             </summary>
             <param name="data">The request data.</param>
-            <param name="delay">The delay.</param>
+            <param name="delay">The delay in milliseconds.</param>
             <returns>The response data.</returns>
         </member>
     </members>
